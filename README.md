@@ -1,4 +1,4 @@
-# IN530_WebApplication
+# GestStud
 
 Web Application creata per scopi didattici. E' stata integrata in una tesina per il corso di "Sistemi informativi aziendali", per fornire un esempio pratico sull'argomento discusso.
 
