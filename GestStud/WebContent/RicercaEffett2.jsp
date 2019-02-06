@@ -6,7 +6,6 @@
 		<meta charset="ISO-8859-1">
 		<title>Risultato ricerca</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
-		<script src="bootstrap.js"></script>
 	</head>
 	<body>
 	<div class="jumbotron text-center">
